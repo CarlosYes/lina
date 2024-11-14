@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Sen&display=swap');
+
+html, body {
+  height: 100%;
+  width:100%;
+  margin: 0;
+  padding: 0;
+  font-size: 6vw;
+  background-color: #B5B5B5;
+}
+
+body {
+  display:fixed;
+  justify-content: center;
+}
+
+h1, h2 {
+  text-align: center;
+  margin: 0; 
+  font-family: 'Sen', sans-serif;
+}
+
+#confetti{
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+}
